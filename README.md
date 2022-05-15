@@ -3,7 +3,7 @@
 
 <img align="right" width="250" height="350" src="https://user-images.githubusercontent.com/76843281/105200067-705e8800-5b65-11eb-9cfc-bbb74fdb8987.png"/>
 
-- 🧑🏻‍💻 Open to Data Science roles | Grad in 2023.
+- 🧑🏻‍💻 Open to Data Scientist roles | Grad in 2023.
 
 - 👀 I’m interested in AI/ML & Data Science
 - 🌱 I’m currently learning Machine Learning
